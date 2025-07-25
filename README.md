@@ -50,6 +50,6 @@
 **badavath kalyani** 
 🎓 3rd Year Engineering Student, Osmania University  
 🛠️ Project Type: Academic | Skill-building  
-🌐 GitHub: 
+🌐 GitHub: https://github.com/Kalyanibadavath
 
 
