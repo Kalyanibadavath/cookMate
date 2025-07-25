@@ -47,9 +47,9 @@
 
 ## 🙋‍♂️ Author
 
-**Vijay Kumar**  
+**badavath kalyani** 
 🎓 3rd Year Engineering Student, Osmania University  
 🛠️ Project Type: Academic | Skill-building  
-🌐 GitHub: [github.com/vijayKumar7909](https://github.com/vijayKumar7909)
+🌐 GitHub: 
 
 
